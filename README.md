@@ -1,0 +1,2 @@
+# SmartNotes
+SmartNotesAppPyQT
